@@ -9,6 +9,3 @@ for numero in numeros:
     soma += numero
 
 print(f"A soma dos números é: {soma}")
-
-
-guilherme
